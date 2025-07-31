@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Soy Ángel Corral Violante, persona no binaria con pronombres él/elle, estudiante de sociología que va en 7mo semestres de la carrera.
+
+```{r}
+pi= 3.14259
+```
